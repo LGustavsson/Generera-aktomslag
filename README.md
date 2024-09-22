@@ -4,7 +4,7 @@
 Automatiskt generera olika typer av aktomslag
 
 # Beskrivning
-Detta är ett litet program som är tänkt att vara ett stöd för er när olika handlingas ska arkiveras.
+Detta är ett litet program som är tänkt att vara ett stöd för er när olika handlingas ska arkiveras, exempelvis vid genomgång av historiska arkiv men även vid pågående arkivbildning. 
 
 Programmet genererar automatiskt aktomslag till formatet A3 med vikning åt höger som ni därefter har möjlighet att skriva ut samlat. I aktuell version kan man generera aktomslag för ärenden med löpnummer, eller individakter med personnummer och namn.
 
