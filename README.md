@@ -11,7 +11,7 @@ På detta sätt slipper man skriva in informationen för hand i word-filen för 
 Vid frågor är ni välkomna att höra av er till linus.gustavsson.1@gmail.com
 
 # Kom igång
-1. Ladda ner den senaste releasen av Generera-aktomslag.
+1. Ladda ner den senaste releasen av [Generera-aktomslag](https://github.com/LGustavsson/Generera-aktomslag/releases).
 2. Packa upp zip-filen på din dator där du vill lagra applikationen.
 3. Starta Generera aktomslag med "Generera_aktomslag.exe".
 4. Välj flik utifrån vilken typ av aktomslag som önskas genereras.
