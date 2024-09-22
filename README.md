@@ -8,6 +8,8 @@ Programmet genererar automatiskt aktomslag till formatet A3 med vikning åt hög
 
 På detta sätt slipper man skriva in informationen för hand i word-filen för varje unikt omslag, skriva ut, skriva om, skriva ut, glömma av ifall man har skrivit ut eller inte, och så vidare, och så vidare. 
 
+Tanken med programstödet fick jag när jag hade ett pass i arkivet. Där hade jag ett historiskt arkiv med ärenden som saknade aktomslag och bara låg gemade i en låda. Mängden ärenden uppkom till över 300 och jag kände inte riktigt för att skriva samtliga aktomslag för hand, eller göra- och skriva ut var för sig på datorn för att efter ett tag glömma av vart jag var i ordningen. Kanske denna situation uppstår även för er, och då har ni kanske ett tips på vart detta program kan vara till hjälp. 
+
 Vid frågor är ni välkomna att höra av er till linus.gustavsson.1@gmail.com
 
 # Kom igång
