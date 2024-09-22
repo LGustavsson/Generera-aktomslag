@@ -8,13 +8,13 @@ På detta sätt slipper man skriva in informationen för hand i word-filen för 
 Vid frågor är ni välkomna att höra av er till linus.gustavsson.1@gmail.com
 
 # Kom igång
-Ladda ner den senaste releasen av Generera-aktomslag.
-Packa upp zip-filen på din dator där du vill lagra applikationen.
-Starta Generera aktomslag med "Generera_aktomslag.exe".
-Välj flik utifrån vilken typ av aktomslag som önskas genereras.
-Fyll i relevant metadata.
-Klicka på Generera aktomslag.
-Därefter kan ni skriva ut de aktomslag som genererats i vald katalog. Tyvärr tillåter inte Windows att man skriver ut mer än 15 filer åt gången, detta går dock att ändra på - se https://www.thewindowsclub.com/print-more-than-15-files-windows
+1. Ladda ner den senaste releasen av Generera-aktomslag.
+2. Packa upp zip-filen på din dator där du vill lagra applikationen.
+3. Starta Generera aktomslag med "Generera_aktomslag.exe".
+4. Välj flik utifrån vilken typ av aktomslag som önskas genereras.
+5. Fyll i relevant metadata.
+6. Klicka på Generera aktomslag.
+7. Därefter kan ni skriva ut de aktomslag som genererats i vald katalog. Tyvärr tillåter inte Windows att man skriver ut mer än 15 filer åt gången, detta går dock att ändra på - se https://www.thewindowsclub.com/print-more-than-15-files-windows
 
 # Credits
 Ikonen hämtade från - [https://icon-icons.com/icon/archive/125380)](https://icon-icons.com/icon/archive/125380)
