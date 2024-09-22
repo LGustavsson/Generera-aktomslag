@@ -9,12 +9,6 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml.ns import qn
 from docx.shared import Mm, Pt
 
-"""
-För att skapa distribuerbart program:
-    python -m pip install --upgrade auto_py_to_exe
-    python -m auto_py_to_exe
-"""
-
 class GenerateFileCover():
     def __init__(self):
         pass
