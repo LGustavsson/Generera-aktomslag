@@ -27,6 +27,6 @@ Vid frågor är ni välkomna att höra av er till linus.gustavsson.1@gmail.com.
 Ikonen hämtade från - [https://icon-icons.com/icon/archive/125380)](https://icon-icons.com/icon/archive/125380)
 
 # Creative Commons License
-![image](https://github.com/user-attachments/assets/56b6933a-81c8-4bc9-872e-c5a9664e384c)
+![image](https://github.com/user-attachments/assets/22d24ea9-5ecc-4e4f-be3a-0e51860bfb22)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
