@@ -2,9 +2,12 @@
 Automatiskt generera olika typer av aktomslag
 
 # Beskrivning
-Detta är ett litet program som är tänkt att vara ett stöd för er när olika handlingar ska arkiveras.
-Programmet genererar automatiskt olika typer av aktomslag till formatet A3 med vikning åt höger. 
+Detta är ett litet program som är tänkt att vara ett stöd för er när olika handlingas ska arkiveras.
+
+Programmet genererar automatiskt aktomslag till formatet A3 med vikning åt höger som ni därefter har möjlighet att skriva ut samlat. I aktuell version kan man generera aktomslag för ärenden med löpnummer, eller individakter med personnummer och namn.
+
 På detta sätt slipper man skriva in informationen för hand i word-filen för varje unikt omslag, skriva ut, skriva om, skriva ut, glömma av ifall man har skrivit ut eller inte, och så vidare, och så vidare. 
+
 Vid frågor är ni välkomna att höra av er till linus.gustavsson.1@gmail.com
 
 # Kom igång
